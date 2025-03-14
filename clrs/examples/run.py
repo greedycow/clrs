@@ -582,3 +582,5 @@ def main(unused_argv):
 
 if __name__ == '__main__':
   app.run(main)
+
+# CUDA_VISIBLE_DEVICES=0 python -m clrs.examples.run
